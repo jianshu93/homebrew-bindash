@@ -10,7 +10,7 @@ class Bindash < Formula
   depends_on "gcc" => :build
   depends_on "libtool" => :build
   depends_on "pkg-config" => :build
-  depends_on "libomp" => :build
+  depends_on "libgomp" => :build
 
   uses_from_macos "zlib"
 
