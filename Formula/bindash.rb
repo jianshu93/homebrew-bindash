@@ -8,7 +8,6 @@ class Bindash < Formula
 
   depends_on "cmake" => :build
   depends_on "gcc" => :build
-  depends_on "llvm" => :build
   depends_on "libtool" => :build
   depends_on "pkg-config" => :build
   depends_on "libomp" => :build
