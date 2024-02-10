@@ -1,4 +1,4 @@
-class BinDash < Formula
+class Bindash < Formula
   # cite Zhao_2018: "https://academic.oup.com/bioinformatics/article/35/4/671/5058094"
   desc "B-bit One-Permutation Rolling MinHash with Optimal/Faster Densification for Genome Search and Comparisons"
   homepage "https://github.com/zhaoxiaofei/bindash"
