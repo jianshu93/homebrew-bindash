@@ -2,8 +2,8 @@ class Bindash < Formula
   # cite Zhao_2018: "https://academic.oup.com/bioinformatics/article/35/4/671/5058094"
   desc "B-bit One-Permutation Rolling MinHash with Optimal/Faster Densification for Genome Search and Comparisons"
   homepage "https://github.com/zhaoxiaofei/bindash"
-  url "https://github.com/jianshu93/bindash/archive/refs/tags/v2.1.tar.gz"
-  sha256 "185903149a2a14a4506f0a60d0f9fc0c03bace6705fb5eca8df4048d1b03592b"
+  url "https://github.com/jianshu93/bindash/archive/refs/tags/v2.3.tar.gz"
+  sha256 "6e4bf36fd04195ed0738ea8bf835eca1e400b5ce6eef3902bdf0673955d15166"
   head "https://github.com/zhaoxiaofei/bindash"
 
   depends_on "cmake" => :build
